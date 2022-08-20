@@ -1,4 +1,4 @@
-# linux-projeto2-dio
+# Segundo projeto Linux DIO
 
 Script de provisionamento de um servidor web (apache)
 
